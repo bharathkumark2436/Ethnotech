@@ -1,4 +1,4 @@
-package com.bharath.Polymorp;
+package com.bharath.Poly_Interface;
 
 interface camera{
     void click();
