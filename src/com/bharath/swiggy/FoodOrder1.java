@@ -1,4 +1,4 @@
-package swiggy;
+package com.bharath.swiggy;
 
 import java.util.*;
 
