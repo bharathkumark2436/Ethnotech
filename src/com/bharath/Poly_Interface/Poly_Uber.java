@@ -25,7 +25,7 @@ public class Poly_Uber {
 
         int distance = 30;
 
-        Customer ride; 
+        Customer ride;
 
         if (distance < 50) {
             ride = new Bike();
