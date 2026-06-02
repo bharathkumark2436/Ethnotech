@@ -1,4 +1,4 @@
-package com.bharath.Arrays;
+package com.bharath.Arrays_arrayList;
 
 public class Temperature {
     public static void main(String[] args) {

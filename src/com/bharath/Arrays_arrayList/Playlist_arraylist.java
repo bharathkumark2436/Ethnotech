@@ -1,4 +1,4 @@
-package com.bharath.Arrays;
+package com.bharath.Arrays_arrayList;
 
 import java.util.ArrayList;
 import java.util.Scanner;
